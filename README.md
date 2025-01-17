@@ -1,3 +1,46 @@
+# 🌟 Welcome to My GitHub Profile! 🌟
+
+![Header](https://img.shields.io/badge/-Hello,%20I'm%20Arif%20Mia-blueviolet?style=for-the-badge)
+
+Hi there! 👋 I'm **Arif Mia**, a passionate **Machine Learning Engineer** who loves to solve real-world problems using data and algorithms. I also enjoy coding, analyzing datasets, and creating amazing projects.
+
+---
+
+## 💻 **About Me**
+
+- 🎓 Computer Science and Engineering Student
+- 🌟 Expert in Machine Learning, Deep Learning, and Computer Vision
+- 🔬 Passionate about Data Science and AI Research
+- 🌎 Working remotely for an international company
+- 💼 Kaggle Notebooks Expert | LinkedIn Services: Machine Learning Engineering
+- 🛠️ Tools: Python, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, and more!
+
+---
+
+## 🛠 **Skills & Tools**
+- 🚀 **Programming Languages**: Python, SQL, R
+- 📊 **Data Analysis & Visualization**: Matplotlib, Seaborn, Power BI
+- 🤖 **Machine Learning**: Scikit-learn, XGBoost, LightGBM
+- 🧠 **Deep Learning**: TensorFlow, Keras, PyTorch
+- 🌐 **Web Development**: HTML, CSS, JavaScript
+
+---
+
+## 📈 **Stats & Contributions**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arif-miad&show_icons=true&theme=radical)
+
+---
+
+## 🌐 **Find Me Online**
+
+- **📧 Email**: [arifmiahcse@gmail.com](mailto:arifmiahcse@gmail.com)
+- **📂 Kaggle**: [Kaggle Profile](https://www.kaggle.com/code/arifmia/comprehensive-machine-learning-workflow-for-predic)
+- **💼 LinkedIn**: [GitHub Profile](https://github.com/Arif-miad)
+
+Let's connect and collaborate! 🚀
+
+---
 
 
 # Room Occupancy Prediction using Environmental Sensor Data
